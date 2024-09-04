@@ -9,15 +9,10 @@ Hi!  I really like data.  And I like visualizations.  So I guess you can say tha
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Creating good data visualization with Tableau
+2. Have a publicly accessible portfolio
+3. Learn how to tell a compelling story with data
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
