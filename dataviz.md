@@ -1,4 +1,4 @@
-![Government Debt Chart](OECD.PNG.png)
+![Government Debt Chart](OECD.png)
 
 <div class='tableauPlaceholder' id='viz1725916286512' style='position: relative'>
   <noscript>
