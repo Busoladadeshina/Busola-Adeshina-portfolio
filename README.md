@@ -2,13 +2,15 @@
 Portfolio for Telling Stories with Data.
 
 # Portfolio
+Hello! I'm Busola Adeshina. I'm a second year masters student in the Public policy Analysis and Management Program at Heinz College, Carnegie Mellon University. 
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm from Nigeria.  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+I'm interested in using data analysis and data-driven approaches to solve real-world problems and informs policies to achieve social impact and economic development. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+All the things - obviously. I'd especially like to learn: 
 
 1. Creating good data visualization with Tableau
 2. Have a publicly accessible portfolio
