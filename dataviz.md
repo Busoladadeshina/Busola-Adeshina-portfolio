@@ -42,7 +42,7 @@ full version [here](https://public.tableau.com/views/Top10Countrieswiththehighes
 ## Data Source:
 - **OECD**: General Government Debt-to-GDP Ratio - [OECD Data](https://www.oecd.org/en/data.html).
 
-## DATA DESCRIPTION:
+## DATA VISUALIZATION DESCRIPTION:
 I chose this visualization because it tells a story of the top 10 countries with the highest debt to GDP ratio. 
 I used a legend to show countries and highlighted Japan (i.e the country with the highest debt to GDP ratio) red which is usually associated with a warning sign to distinguish it from other countries. 
 It differs from the heatmap because only the country of interest with the highest Debt to GDP ratio is highlighted with red showing caution. However, similarly to the heatmap it ranks countries by their debt to GDP ratios. I also put the other countries with in grey to prevent clashing colour contrast and place focus on Japan. I also only included information that tells the story my title already describes.
