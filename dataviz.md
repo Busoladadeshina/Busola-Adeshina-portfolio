@@ -1,6 +1,8 @@
+This Barchart visualizes the general government debt of countries overtime by the OECD.
+
 ![Government Debt Chart](OECD.png)
 
-This figure visualizes the government debt of countries overtime by the OECD.
+This Heatmap shows and ranks countries general government debt overtime.
 
 <div class='tableauPlaceholder' id='viz1726003057088' style='position: relative'>
   <noscript>
