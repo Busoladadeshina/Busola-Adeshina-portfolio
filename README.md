@@ -16,6 +16,9 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 
 # Portfolio
 
+- [Debt to GDP ratio by countries over-time](dataviz.md)
+- [Top 10 Countries with the Highest Debt-to-GDP Ratios](dataviz2.md)
+ 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
@@ -30,3 +33,4 @@ Here it might be helpful to include a high-level description of your final proje
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
+
