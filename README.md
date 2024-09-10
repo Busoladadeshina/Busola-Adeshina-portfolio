@@ -1,5 +1,6 @@
 # Busola-Adeshina-portfolio
 Portfolio for Telling Stories with Data.
+
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
@@ -15,7 +16,6 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 
 
 # Portfolio
-
 - [Debt to GDP ratio by countries over-time](dataviz.md)
 - [Top 10 Countries with the Highest Debt-to-GDP Ratios](dataviz2.md)
  
