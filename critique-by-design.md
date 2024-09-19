@@ -23,18 +23,12 @@ I would also recommend using a different visualization like bar chart as the fun
 
 ## Step four: Test the solution
 
-Questions to ask (modify these for your own interviews): 
 
-- Can you tell me what you think this is?
-- Female in mid 20s shows confusion and asks questions about the Marvel Franchise Category 
+- Female in mid 20s shows confusion and asks questions about the Marvel Franchise Category.
+-  My users said that there are too many colors. 
+- There was confusion connecting the title to the legend and how to read the chart. For example, one user was able to infer that Iron Man was one of the best performing movies in 2008, 2010 and 2013. However, it took her time to make that inference because there was discontinuity in between. Iron man was not released in 2011 and 2012, and that discontinuity like this made it difficult to track the movies.
+- Users said understanding best performing movies on a per year basis would be information overload. To understand best performing movies, they were looking for information like averages or median or ranges.
 
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
 
 Results: 
 
@@ -52,6 +46,57 @@ Synthesis:
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
+
+<div class='tableauPlaceholder' id='viz1726716697557' style='position: relative'>
+  <noscript>
+    <a href='#'>
+    <img alt='Profitability Analysis: Highest Worldwide Grossing Marvel Movies ($M)Marvel Movies Franchise and Their Worldwide Gross Revenue Earned from 2008 - 2024 ($M)Data source: https:&#47;&#47;informationisbeautiful.net&#47;visualizations&#47;which-is-the-best-performing-marvel ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelProfitabilityAnalysis-TreeMap&#47;ProfitabilityAnalysisTreeMap&#47;1_rss.png' style='border: none' />
+  </a>
+</noscript>
+  <object class='tableauViz'  style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+  <param name='name' value='MarvelProfitabilityAnalysis-TreeMap&#47;ProfitabilityAnalysisTreeMap' />
+  <param name='tabs' value='no' />
+  <param name='toolbar' value='yes' />
+  <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelProfitabilityAnalysis-TreeMap&#47;ProfitabilityAnalysisTreeMap&#47;1.png' /> 
+  <param name='animate_transition' value='yes' />
+  <param name='display_static_image' value='yes' />
+  <param name='display_spinner' value='yes' />
+  <param name='display_overlay' value='yes' />
+  <param name='display_count' value='yes' />
+  <param name='language' value='en-GB' />
+  <param name='filter' value='publish=yes' />
+</object>
+</div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1726716697557');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+</script>
+
+A bar chart showing the
+
+<div class='tableauPlaceholder' id='viz1726716753723' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Profitability AnalysisMarvel Movies Franchise with the Highest Percentage of Budget RecoveredData source: https:&#47;&#47;informationisbeautiful.net&#47;visualizations&#47;which-is-the-best-performing-marvel-movie&#47; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Barchart-Marvelprofitability&#47;ProfitabilityAnalysisBarchart&#47;1_rss.png' style='border: none' />
+</a>
+</noscript>
+  <object class='tableauViz'  style='display:none;'>
+  <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+    <param name='embed_code_version' value='3' /> 
+    <param name='site_root' value='' /><param name='name' value='Barchart-Marvelprofitability&#47;ProfitabilityAnalysisBarchart' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;Barchart-Marvelprofitability&#47;ProfitabilityAnalysisBarchart&#47;1.png' /> 
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-GB' />
+  </object>
+</div>                
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1726716753723');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
