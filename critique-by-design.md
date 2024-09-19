@@ -2,7 +2,7 @@
 
 ## Introduction
 Makeover Monday is an online community that helps us improve how we can better visualize data, one chart at a time. The visualization I chose from Makeover Monday’s repository is from information is beautiful - Which is The Best Performing Marvel Movie?
-
+![Original Visualization](Original information is beautiful - Best performing arvel movies design.png)
 
 ## Step one: the visualization
 https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/
