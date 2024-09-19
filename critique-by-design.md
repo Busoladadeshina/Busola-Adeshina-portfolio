@@ -2,21 +2,15 @@
 
 ## Introduction
 Makeover Monday is an online community that helps us improve how we can better visualize data, one chart at a time. The visualization I chose from Makeover Monday’s repository is from information is beautiful - Which is The Best Performing Marvel Movie?
+
 ![Original Visualization](Original information is beautiful - Best performing arvel movies design.png)
 
 ## Step one: the visualization
 https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/
 
-# PROFITABILITY ANALYSIS OF MARVEL MOVIES FRANCHISE
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
-
+The first thing that stood out to me is that the visualization uses various data points and metrics to assess marvel movies performance, beyond just the gross revenue earned from box office providing a balanced view. The data is displayed in a scatter plot, which allows the audience identify trends and outliers across different metrics. Additionally, it uses different colors to represent movie spinoffs, making it easy to see how it's performance evolved over time from 2008 till present. It also included other factors like audience score, critic score, % of budget recovered etc., offering a more complete picture of a marvel movie's impact. The axes and data points are well-labeled, making the information easy to understand. Also the title is good as it summarizes what story the visualization is telling. The visualization is also interactive which seems fun hence appealing to the audience/fans that watch the movies to explore a specific movie in detail.
 
 ## Step two: the critique
-The visualization uses various data points and metrics to assess marvel movies performance, beyond just the gross revenue earned from box office providing a balanced view. The data is also displayed in a scatter plot, which allows the audience identify trends and outliers across different metrics. Additionally, it uses different colors to represent movie spinoffs, making it easy to see how it's performance evolved over time from 2008 till present. 
 
 While the data points are plotted on a scatterplot, it would be helpful to be able to identify individual movies franchise and gross revenue earned easily. So if the visualization is maybe broken down to 2 different designs for example broken down in pre-2016 vs post-2016 trend. Also to see the difference between movie performance, present information in a bar-chart to see the stark difference in performance. Also, there was no brief explanation for each metric on the y-axis used. Also, the current Y-axis scale might not be clear for all metrics. I would consider using a consistent scale or adding labels for specific ranges and maybe put different y-axis on different visuals or and put a short textbox explaining the scale of the metrics used and terms that regular people not familiar with movie industry terms may not understand.
 
@@ -25,6 +19,7 @@ I would also recommend using a different visualization like bar chart as the fun
 
 ## Step three: Sketch a solution
 
+![Initial Visualization Sketch](InitialSketch.png)
 
 ## Step four: Test the solution
 
