@@ -30,48 +30,25 @@ I would also recommend using a different visualization like bar chart as the fun
 - Users said understanding best performing movies on a per year basis would be information overload. To understand best performing movies, they were looking for information like averages or median or ranges.
 
 
-Results: 
+## Step five: Building the solution
+From the user interview, I realised that my users do not actually need the time based comparison of movies. Since Marvel movies are release sporadically, they would rather as a movie exec prefer knowing which Marvel movie is the best performing of all time.
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+Below are my wireframes for the inital visualizations, where I tried to depict the biggest movies franchise.
 
+**Attempt 1: Treemap**  
+<div class='tableauPlaceholder' id='viz1726716697557' style='position: relative'><noscript><a href='#'><img alt='Profitability Analysis: Highest Worldwide Grossing Marvel Movies ($M)Marvel Movies Franchise and Their Worldwide Gross Revenue Earned from 2008 - 2024 ($M)Data source: https:&#47;&#47;informationisbeautiful.net&#47;visualizations&#47;which-is-the-best-performing-marvel ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelProfitabilityAnalysis-TreeMap&#47;ProfitabilityAnalysisTreeMap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MarvelProfitabilityAnalysis-TreeMap&#47;ProfitabilityAnalysisTreeMap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelProfitabilityAnalysis-TreeMap&#47;ProfitabilityAnalysisTreeMap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-## Step five: build the solution
-
-<div class='tableauPlaceholder' id='viz1726716697557' style='position: relative'>
-  <noscript>
-    <a href='#'>
-    <img alt='Profitability Analysis: Highest Worldwide Grossing Marvel Movies ($M)Marvel Movies Franchise and Their Worldwide Gross Revenue Earned from 2008 - 2024 ($M)Data source: https:&#47;&#47;informationisbeautiful.net&#47;visualizations&#47;which-is-the-best-performing-marvel ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelProfitabilityAnalysis-TreeMap&#47;ProfitabilityAnalysisTreeMap&#47;1_rss.png' style='border: none' />
-  </a>
-</noscript>
-  <object class='tableauViz'  style='display:none;'>
-    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
-  <param name='name' value='MarvelProfitabilityAnalysis-TreeMap&#47;ProfitabilityAnalysisTreeMap' />
-  <param name='tabs' value='no' />
-  <param name='toolbar' value='yes' />
-  <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelProfitabilityAnalysis-TreeMap&#47;ProfitabilityAnalysisTreeMap&#47;1.png' /> 
-  <param name='animate_transition' value='yes' />
-  <param name='display_static_image' value='yes' />
-  <param name='display_spinner' value='yes' />
-  <param name='display_overlay' value='yes' />
-  <param name='display_count' value='yes' />
-  <param name='language' value='en-GB' />
-  <param name='filter' value='publish=yes' />
-</object>
-</div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1726716697557');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1726716697557');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-A bar chart showing the
-
+**Attempt 2: Bar chart**  
+  
 <div class='tableauPlaceholder' id='viz1726716753723' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -95,6 +72,8 @@ A bar chart showing the
 </div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1726716753723');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+**Attempt 3: Box-plot**  
 
 <div class='tableauPlaceholder' id='viz1726717239485' style='position: relative'><noscript><a href='#'><img alt='The Avengers franchise dominates other Marvel franchise with record-breaking sales! The Avengers franchise median gross sales crush those of every other Marvel movie franchise.   ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Finalmarvelprofitabilityanalysis&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Finalmarvelprofitabilityanalysis&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Finalmarvelprofitabilityanalysis&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>
 
