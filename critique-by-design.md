@@ -47,6 +47,10 @@ Below are my wireframes for the inital visualizations, where I tried to depict t
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
+
+
+      
 **Attempt 2: Bar chart**  
   
 <div class='tableauPlaceholder' id='viz1726716753723' style='position: relative'>
@@ -73,6 +77,10 @@ Below are my wireframes for the inital visualizations, where I tried to depict t
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1726716753723');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+  
+  
+
+     
 **Attempt 3: Box-plot**  
 
 <div class='tableauPlaceholder' id='viz1726717239485' style='position: relative'><noscript><a href='#'><img alt='The Avengers franchise dominates other Marvel franchise with record-breaking sales! The Avengers franchise median gross sales crush those of every other Marvel movie franchise.   ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Finalmarvelprofitabilityanalysis&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Finalmarvelprofitabilityanalysis&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Finalmarvelprofitabilityanalysis&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>
@@ -86,7 +94,10 @@ Below are my wireframes for the inital visualizations, where I tried to depict t
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Final Choice
+
+
+        
+## Final Choice - Boxplot from attempt 3
 I chose the boxplot as my final solution. It suits the sophistication of my audience who are movie executives, and would be interested in producing future Marvel movies. Having a boxplot not only lets them see the median, but also lets them compare the range of how well each Marvel franchise performed. Using a boxplot lets them make inferences such as the minimum expected worldwide gross revenue ($M).
 
 In contrast, the treemap for example showed the biggest franchises, but invoked further questions such as "while avengers had the highest gross sales in total, how did each avenger movie perform? was there a movie from any other franchise that performed better than any of the avenger movie?". Having a sense of range and being able to compare the range between franchises helps us answer such questions. We can see that Avenger Endgame gave the highest gross revenue, and the least performing avenger franchise movie still outperforms most of the other franchise movies.
