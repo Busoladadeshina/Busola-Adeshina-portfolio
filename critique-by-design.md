@@ -19,7 +19,7 @@ I would also recommend using a different visualization like bar chart as the fun
 
 ## Step three: Sketch a solution
 
-![Initial Visualization Sketch](InitialSketch.png)
+![Initial Visualization Sketch](InitialSketch.jpeg)
 
 ## Step four: Test the solution
 
