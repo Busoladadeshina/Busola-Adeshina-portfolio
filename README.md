@@ -22,11 +22,9 @@ All the things - obviously. I'd especially like to learn:
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing government Debt](visualizing-government-debt)
-- [Debt to GDP ratio by countries over-time](dataviz.md)
+## Assignment: [Debt to GDP ratio by countries over-time](dataviz.md)
  
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
