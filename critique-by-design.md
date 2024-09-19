@@ -86,3 +86,7 @@ Below are my wireframes for the inital visualizations, where I tried to depict t
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+## Final Choice
+I chose the boxplot as my final solution. It suits the sophistication of my audience who are movie executives, and would be interested in producing future Marvel movies. Having a boxplot not only lets them see the median, but also lets them compare the range of how well each Marvel franchise performed. Using a boxplot lets them make inferences such as the minimum expected worldwide gross revenue ($M).
+
+In contrast, the treemap for example showed the biggest franchises, but invoked further questions such as "while avengers had the highest gross sales in total, how did each avenger movie perform? was there a movie from any other franchise that performed better than any of the avenger movie?". Having a sense of range and being able to compare the range between franchises helps us answer such questions. We can see that Avenger Endgame gave the highest gross revenue, and the least performing avenger franchise movie still outperforms most of the other franchise movies.
