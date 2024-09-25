@@ -1,17 +1,21 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# WHY WE SHOULD PAY MORE ATTENTION ON SICKLE CELL DISEASE
-## A case for increased attention and funding for Sickle Cell Disease Research in the US.
+# THE OVERLOOKED CRISIS: WHY MORE ATTENTION NEEDS TO BE PLACED ON SICKLE CELL DISEASE.
+## A call for increased attention and funding for Sickle Cell Disease Research in the US.
+
 
 # Outline
-## High level summary
+
+How does the societal burden of Sickle Cell Disease compare to public awareness and research investment?
+
+## Summary
 This project aims to highlight the urgent need for increased attention and funding for sickle cell disease (SCD) research in the United States. Sickle cell disease an inherited blood disorder that affects hemoglobin, the protein in red blood cells responsible for carrying oxygen throughout the body. The disease is predominantly common in countries in sub-saharan africa and the Carribean usually associated with Malaria. 
 
-Sickle cell disease affects approximately 100,000 Americans (primarily Black/African Americans) which represents about 0.03% of the total U.S. population (assuming a population of around 330 million). It is important to note that while these percentages may seem small to the overall population, Sickle Cell Disease has a significant impact on those affected and their families, with serious health complications and reduced life expectancy.
+Sickle cell disease affects approximately 100,000 Americans (primarily Black/African Americans) which represents about 0.03% of the total U.S. population (assuming a population of around 330 million). It is important to note that while these percentages may seem small to the overall population, it is an urgent health priority because Sickle Cell Disease has a significant impact on those affected and their families, with serious health complications and reduced life expectancy.
 
-In the United States, pregnant Black women who have sickle cell disease have a higher risk of dying which is 10 times higher than the risk faced by pregnant Black women who does not have the disease. Despite the steady growing number of deaths due to sickle cell anemia in the United States, very little has been done in making strides towards a cure. This is due to the disproportionately less attention and funding Sickle Cell Disease has received compared to other genetic disorders. Recent scientific breakthroughs, particularly in gene therapy, have opened new avenues for potential cures. However, significant challenges persist particularly regarding accessibility and affordability.
+In the United States, pregnant Black women who have sickle cell disease have a higher risk of dying which is 10 times higher than the risk faced by pregnant Black women who does not have the disease. Despite the steady growing number of deaths due to sickle cell anemia in the United States, very little has been done in making strides towards a cure. This is due to the disproportionately less attention and funding Sickle Cell Disease has received compared to other genetic disorders. 
 
-By prioritizing Sickle Cell Disease research, we have a unique opportunity to address a major health disparity affecting minority communities, potentially cure a debilitating genetic disorder and reduce long-term healthcare costs associated with the treatment.
+Recent scientific breakthroughs, particularly in gene therapy, have opened new avenues for potential cures. However, significant challenges persist particularly regarding accessibility and affordability. By prioritizing Sickle Cell Disease research, we have a unique opportunity to address a major health disparity affecting minority communities, potentially cure a debilitating genetic disorder and reduce long-term healthcare costs associated with the treatment.
 
 ## Project Structure:
 1. Brief overview of Sickle Cell Disease and its prevalence in the US
