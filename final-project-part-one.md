@@ -9,7 +9,7 @@
 How does the societal burden of Sickle Cell Disease compare to public awareness and research investment?
 
 ## Summary
-This project aims to highlight the urgent need for increased attention and funding for sickle cell disease (SCD) research in the United States. Sickle cell disease an inherited blood disorder that affects hemoglobin, the protein in red blood cells responsible for carrying oxygen throughout the body. The disease is predominantly common in countries in sub-saharan africa and the Carribean usually associated with Malaria. 
+In lieu of September being sickle cell awareness month, this project aims to highlight the urgent need for increased attention and funding for sickle cell disease (SCD) research in the United States. Sickle cell disease an inherited blood disorder that affects hemoglobin, the protein in red blood cells responsible for carrying oxygen throughout the body. The disease is predominantly common in countries in sub-saharan africa and the Carribean usually associated with Malaria. 
 
 Sickle cell disease affects approximately 100,000 Americans (primarily Black/African Americans) which represents about 0.03% of the total U.S. population (assuming a population of around 330 million). It is important to note that while these percentages may seem small to the overall population, it is an urgent health priority because Sickle Cell Disease has a significant impact on those affected and their families, with serious health complications and reduced life expectancy.
 
