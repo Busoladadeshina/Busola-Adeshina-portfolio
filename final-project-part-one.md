@@ -6,8 +6,11 @@
 # Outline
 ## High level summary
 This project aims to highlight the urgent need for increased attention and funding for sickle cell disease (SCD) research in the United States. Sickle cell disease an inherited blood disorder that affects hemoglobin, the protein in red blood cells responsible for carrying oxygen throughout the body. The disease is predominantly common in countries in sub-saharan africa and the Carribean usually associated with Malaria. 
+
 Sickle cell disease affects approximately 100,000 Americans (primarily Black/African Americans) which represents about 0.03% of the total U.S. population (assuming a population of around 330 million). It is important to note that while these percentages may seem small to the overall population, Sickle Cell Disease has a significant impact on those affected and their families, with serious health complications and reduced life expectancy.
+
 Despite the steady growing number of deaths due to sickle cell anemia in the United States from 2018 to 2022, very little has been done in making strides towards it's cure. This is due to the disproportionately less attention and funding Sickle Cell Disease has received compared to other genetic disorders. Recent scientific breakthroughs, particularly in gene therapy, have opened new avenues for potential cures. However, significant challenges persist particularly regarding accessibility and affordability.
+
 By prioritizing Sickle Cell Disease research, we have a unique opportunity to address a major health disparity affecting minority communities, potentially cure a debilitating genetic disorder and reduce long-term healthcare costs associated with the treatment.
 
 ## Project Structure:
