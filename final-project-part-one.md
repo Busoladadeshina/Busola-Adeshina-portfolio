@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# WHY THE US SHOULD PAY ATTENTION TO SICKLE CELL DISEASE?
+# WHY WE SHOULD PAY MORE ATTENTION ON SICKLE CELL DISEASE
 ## A case for increased attention and funding for Sickle Cell Disease Research in the US.
 
 # Outline
