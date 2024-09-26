@@ -48,22 +48,33 @@ Recent scientific breakthroughs, particularly in gene therapy, have opened new a
 ![Story Arc](FinalProject_StoryARC.jpg)
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+![FirstSketchs](FinalProject_InitialSketch1.jpg)
+![SecondSketch](FinalProject_InitialSketch2.jpg)
+![ThirdSketch](FinalProject_InitialSketch3.jpg)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+https://hcup-us.ahrq.gov/reports/statbriefs/sb251-Sickle-Cell-Disease-Stays-2016.pdf
 
-Text here...
+https://hcup-us.ahrq.gov/reports/statbriefs/sb251-Sickle-Cell-Disease-Stays-2016.pdf
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+https://hcup-us.ahrq.gov/reports/statbriefs/sb251-Sickle-Cell-Disease-Stays-2016.pdf
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+https://wonder.cdc.gov/controller/datarequest/D158
+
+https://report.nih.gov/funding/categorical-spending#/
+
+## Data Source Description
+I plan on utilizing data from several sources to build a comprehensive narrative. The primary data sources include the Healthcare Cost and Utilization Project (HCUP) on Statista, the Centers for Disease Control and Prevention (CDC), and the National Institutes of Health (NIH) of which I have attached the link above.
+
+The HCUP statistics on Sickle Cell Inpatient hospital visit provides crucial information on the healthcare burden of Sickle Cell Disease, including the frequency and cost of hospitalizations. This data will be used to illustrate the economic impact of Sickle Cell Disease on the U.S. healthcare system and highlight the potential cost savings that could result from improved treatments or a cure. 
+
+The CDC data shows increasing mortality data related to Sickle Cell Disease, which will be used to demonstrate the life-threatening nature of the disease and appeal to emotion to emphasize the urgent need for increased funding in advancing Sickle Cell Disease research and treatment options. 
+
+Finally, the NIH spending report will be utilized to compare funding allocations for genetic disorder disease and compare funding for Sickle Cell Disease research amongst other genetic disorders to supporting the argument for increased attention and funding resources for Sickle Cell Disease research.
+
+These data sources will be integrated and be particularly useful in setting the stage to highlight the human and economic costs of Sickle Cell Disease which forms the foundation of my call to action. The data sources will also be instrumental in illustrating the historical underinvestment in Sickle Cell Disease research, a key point for my rising action. 
+
+By using these datasets and more I'd add in the future iterations of the project, I aim to create a compelling narrative to my audience (i.e policymaker, healthcare industry and general public) demonstrating the critical need for increasing awareness and prioritizing Sickle Cell Disease research in the United States, which would potentially lead to improved patient outcomes and significant long-term cost savings for the healthcare system.
 
 # Method and medium
 I plan to create an interactive presentation using Shorthand, with embedded Tableau visualizations using data representations. Shorthand will allow for a visually engaging narrative flow, while Tableau will enable the creation of more interactive data visualizations. This combination will help effectively communicate the urgency of addressing Sickle Cell Disease to policymakers, healthcare providers, and the general public. It allows me to tell a compelling story on why more funding should be given to sickle cell disease and provides detail required for a policymaker like a U.S. Senator who sits on the Senate Health, Education, Labor, and Pensions (HELP) Committee who have significant influence over health policy and research funding to advocate and act on the issue. The data visualization produced would also be suitable to use for presentations.
