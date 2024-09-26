@@ -1,5 +1,3 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
 # THE OVERLOOKED CRISIS: WHY MORE ATTENTION NEEDS TO BE PLACED ON SICKLE CELL DISEASE.
 ## A call for increased attention and funding for Sickle Cell Disease Research in the United States.
 
