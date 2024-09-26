@@ -47,7 +47,7 @@ Recent scientific breakthroughs, particularly in gene therapy, have opened new a
 
 ## Story arc
 
-
+![Story Arc](FinalProject_StoryARC.jpg)
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
