@@ -5,7 +5,7 @@
 ![Second_visualization](new_distribution-of-sickle-cell-disease-inpatient-stays-in-2016-by-race-ethnicity-in-the-u-s-.png)
 ![Third_visualization](aggregate-cost-incurred-by-sickle-cell-inpatient-stays-in-the-u-s-in-2016-by-age-group-million-.png)
 ![Fourth_visualization](rise-in-the-number-of-deaths-due-to-anemia-in-the-u-s-from-2018-2022.png)
-![Fifth_visualization](new_distribution-of-sickle-cell-disease-inpatient-stays-in-2016-by-race-ethnicity-in-the-u-s-.png)
+![Fifth_visualization](new_percentage-increase-in-research-funding-for-genetic-disorders-in-the-united-states-from-2008-2024.png)
 
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
