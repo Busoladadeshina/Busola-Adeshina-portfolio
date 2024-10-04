@@ -1,5 +1,3 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
 # Wireframes / storyboards
 ![First_visualization](new-age-distribution-of-sickle-cell-inpatient-stays-in-the-u-s-in-2016-nbsp-nbsp-.png)
 ![Second_visualization](new_distribution-of-sickle-cell-disease-inpatient-stays-in-2016-by-race-ethnicity-in-the-u-s-.png)
@@ -55,6 +53,7 @@ The last two Visualization shows the number of cases and % prevalence of Sickle 
 
 ## Shorthand Storyboard 
 I have started a rough draft of my shorthand story including title page, introduction and brief outlines as well as some placeholders but yet to embed wireframe visualizations and implement user feedback from interviews. 
+This is the link to my Shorthand Storyboard draft that is still in progress - https://preview.shorthand.com/nyFYOlvTRPYfQiUA
 
 # User research 
 
