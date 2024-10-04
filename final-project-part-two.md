@@ -7,9 +7,54 @@
 ![Fourth_visualization](rise-in-the-number-of-deaths-due-to-anemia-in-the-u-s-from-2018-2022.png)
 ![Fifth_visualization](new_percentage-increase-in-research-funding-for-genetic-disorders-in-the-united-states-from-2008-2024.png)
 
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+<div class='tableauPlaceholder' id='viz1728010898203' style='position: relative'><noscript><a href='#'><img alt='Geographic distribution of Sickle Cell Disease prevalence across the United StatesData Source: https:&#47;&#47;ashpublications.org&#47;blood&#47;article&#47;142&#47;Supplement%201&#47;3900&#47;500392&#47;Estimating-Sickle-Cell-Disease-Prevalence-By-State ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectWireframes&#47;GeographicdistributionofSickleCellDiseaseprevalenceacrosstheUnitedStates&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProjectWireframes&#47;GeographicdistributionofSickleCellDiseaseprevalenceacrosstheUnitedStates' /><param name='tabs' value='no' />
+  <param name='toolbar' value='yes' />
+  <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProjectWireframes&#47;GeographicdistributionofSickleCellDiseaseprevalenceacrosstheUnitedStates&#47;1.png' />
+  <param name='animate_transition' value='yes' />
+  <param name='display_static_image' value='yes' />
+  <param name='display_spinner' value='yes' />
+  <param name='display_overlay' value='yes' />
+  <param name='display_count' value='yes' />
+  <param name='language' value='en-GB' />
+</object>
+</div>                
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1728010898203');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
-Text here!
+Tree Map
+<div class='tableauPlaceholder' id='viz1728010877988' style='position: relative'><noscript><a href='#'>
+  <img alt='States in the United States with the highest % Prevalence of Sickle Cell Disease.Data Source: https:&#47;&#47;ashpublications.org&#47;blood&#47;article&#47;142&#47;Supplement%201&#47;3900&#47;500392&#47;Estimating-Sickle-Cell-Disease-Prevalence-By-State ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TreeMapFinalProjectWireframes&#47;StatesintheU_Swiththehighestprevalenceofsicklecelldisease&#47;1_rss.png' style='border: none' />
+</a>
+</noscript>
+  <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+  <param name='embed_code_version' value='3' /> 
+  <param name='site_root' value='' />
+  <param name='name' value='TreeMapFinalProjectWireframes&#47;StatesintheU_Swiththehighestprevalenceofsicklecelldisease' />
+  <param name='tabs' value='no' />
+  <param name='toolbar' value='yes' />
+  <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TreeMapFinalProjectWireframes&#47;StatesintheU_Swiththehighestprevalenceofsicklecelldisease&#47;1.png' />
+  <param name='animate_transition' value='yes' />
+  <param name='display_static_image' value='yes' />
+  <param name='display_spinner' value='yes' />
+  <param name='display_overlay' value='yes' />
+  <param name='display_count' value='yes' />
+  <param name='language' value='en-GB' />
+  <param name='filter' value='publish=yes' />
+</object>
+</div>                
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1728010877988');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+## Brief Description for the visualization
+The first Visualization shows the age distribution of Sickle Cell Disease Inpatient visits in the United States. 
+The Second Visualization shows distribution by Race/Ethnicity of Sickle Cell Disease In patients in the United States.
+The third visualization above uses data from Healthcare Cost and Utilization Project (HCUP) on Statista and shows statistics on Sickle Cell Inpatient hospital visit, providing crucial information on the healthcare burden of Sickle Cell Disease, including the frequency and cost of hospitalizations. This is used to illustrate the economic impact of Sickle Cell Disease on the U.S. healthcare system and highlight the potential cost savings that could result from improved treatments or a cure.
+The fourth visualization uses data from CDC and shows increasing mortality related to Sickle Cell Disease, which is used to demonstrate the life-threatening nature of the disease and appeal to emotion to emphasize the urgent need for increased funding in advancing Sickle Cell Disease research and treatment options.
+The fifth visualization uses data from NIH spending report to compare funding allocations for genetic disorder disease and compare funding for Sickle Cell Disease research amongst other genetic disorders to supporting the argument for increased attention and funding resources for Sickle Cell Disease research.
+The last two Visualization shows the number of cases and % prevalence of Sickle Cell Disease in different states in the United States to make a case for increased research funding considering prevelance of 120,156 cases in 2020. 
+
+## Shorthand Storyboard 
+I have started a rough draft of my shorthand story including title page, introduction and brief outlines as well as some placeholders but yet to embed wireframe visualizations and implement user feedback from interviews. 
 
 # User research 
 
