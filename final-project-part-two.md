@@ -3,7 +3,7 @@
 # Wireframes / storyboards
 ![First_visualization](new-age-distribution-of-sickle-cell-inpatient-stays-in-the-u-s-in-2016-nbsp-nbsp-.png)
 ![Second_visualization](new_distribution-of-sickle-cell-disease-inpatient-stays-in-2016-by-race-ethnicity-in-the-u-s-.png)
-![Third_visualization](new_distribution-of-sickle-cell-disease-inpatient-stays-in-2016-by-race-ethnicity-in-the-u-s-.png)
+![Third_visualization](aggregate-cost-incurred-by-sickle-cell-inpatient-stays-in-the-u-s-in-2016-by-age-group-million-.png)
 ![Fourth_visualization](new_distribution-of-sickle-cell-disease-inpatient-stays-in-2016-by-race-ethnicity-in-the-u-s-.png)
 ![Fifth_visualization](new_distribution-of-sickle-cell-disease-inpatient-stays-in-2016-by-race-ethnicity-in-the-u-s-.png)
 
