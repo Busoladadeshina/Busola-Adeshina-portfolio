@@ -45,11 +45,16 @@ Tree Map
 
 ## Brief Description for the visualization
 The first Visualization shows the age distribution of Sickle Cell Disease Inpatient visits in the United States. 
+
 The Second Visualization shows distribution by Race/Ethnicity of Sickle Cell Disease In patients in the United States.
+
 The third visualization above uses data from Healthcare Cost and Utilization Project (HCUP) on Statista and shows statistics on Sickle Cell Inpatient hospital visit, providing crucial information on the healthcare burden of Sickle Cell Disease, including the frequency and cost of hospitalizations. This is used to illustrate the economic impact of Sickle Cell Disease on the U.S. healthcare system and highlight the potential cost savings that could result from improved treatments or a cure.
+
 The fourth visualization uses data from CDC and shows increasing mortality related to Sickle Cell Disease, which is used to demonstrate the life-threatening nature of the disease and appeal to emotion to emphasize the urgent need for increased funding in advancing Sickle Cell Disease research and treatment options.
+
 The fifth visualization uses data from NIH spending report to compare funding allocations for genetic disorder disease and compare funding for Sickle Cell Disease research amongst other genetic disorders to supporting the argument for increased attention and funding resources for Sickle Cell Disease research.
-The last two Visualization shows the number of cases and % prevalence of Sickle Cell Disease in different states in the United States to make a case for increased research funding considering prevelance of 120,156 cases in 2020. 
+
+The last two Visualizations shows the number of cases and % prevalence of Sickle Cell Disease in different states in the United States to make a case for increased research funding considering prevelance of 120,156 cases in 2020. 
 
 ## Shorthand Storyboard 
 I have started a rough draft of my shorthand story including title page, introduction and brief outlines as well as some placeholders but yet to embed wireframe visualizations and implement user feedback from interviews. 
