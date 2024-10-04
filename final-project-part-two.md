@@ -68,8 +68,39 @@ Based on the feedback from the interviews above, to effectively address the comm
 - Emphasize the financial burden sickle cell has on people affected and families to make a case why research funding for sickle cell should be increased by at least 50% and medicare coverage for sickle cell treatments should be expanded 
 
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+# Persona
+Name: Jamal Thompson
 
-Text here!
+Age: 21
 
+Race: Black/African American
+
+Occupation: Student
+## Background:
+Jamal was diagnosed with SCD at birth. He grew up in a low-income neighborhood in Atlanta, Georgia. Despite his condition, Jamal excelled academically and earned a scholarship to attend college at MIT (Massachusetts Institute of Technology). However, frequent pain crisis, hospitalization and complications makes it difficult for him to lead a normal life and complete his degree on time.
+## Daily Life:
+- Experiences unpredictable, severe pain crises 4-5 times per month leading to hospitalization
+- Takes different medications daily to manage symptoms and prevent complications
+- Visits the hospital emergency room 8-10 times per year for chronic pain management, blood transfusions and after care from complications
+- Struggles to graduate and gain full-time employment due to frequent health issues
+- Relies a lot on family support for transportation to medical appointments and assistance during crisis which is a huge strain physically, mentally, emotionally and financially to the family considering high treatment cost as not all associated cost with his treatments has Medicaid coverage.
+## Associated Health Complications:
+- Chronic fatigue limiting daily activities and movement like dancing
+- Increased risk of infections due to compromised immune system
+- Early signs of kidney damage, requiring regular monitoring
+- Occasional episodes of acute chest syndrome, a life-threatening complication of Sickle Cell Disease
+- Regular joint pains resulting in a limp walk
+## Impact on Family:
+- Jamal's mother had to reduce her work hours to help care for him during crisis
+- His younger sister often feels neglected due to the family's focus on Jamal's health and she has to follow him for most of his appointments and stay with him during hospitalization
+- Huge financial strain from medical bills and reduced household income for an already low-income household
+## Emotional and Social Challenges:
+- Experiences anxiety and depression related to the unpredictability of his condition
+- Feels isolated from peers due to frequent hospitalizations and limited energy
+- Struggles with romantic relationships due to concerns about passing Sickle Cell Disease to future children
+## Dreams and Aspirations:
+- Wishes to complete his college degree and start a non-profit for Sickle Cell Warriors
+- Hopes for more effective treatments or a cure that would allow him to live pain-free
+- Wants to become an advocate for Sickle Cell Disease awareness, improved healthcare access and funding for Sickle Cell Disease research with the hopes of finding a cure for the disease.
+## Quote from Jamal:
+"Living with sickle cell is like having a time bomb in your body. You never know when the pain will strike or how bad it will be and this is when you'd die. I just want a chance to live my life without constantly fearing the next crisis."
