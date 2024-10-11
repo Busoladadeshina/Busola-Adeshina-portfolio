@@ -24,7 +24,7 @@ All the things - obviously. I'd especially like to learn:
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project
-Project Title: Sickle Cell Anemia: The Overlooked Crisis 
+**Project Title:** Sickle Cell Anemia: The Overlooked Crisis 
 
 This project aims to highlight the urgent need for increased attention/public awareness and funding for Sickle Cell Disease research in the United States. 
 
