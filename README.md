@@ -19,15 +19,13 @@ All the things - obviously. I'd especially like to learn:
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Debt to GDP ratio by countries over-time](dataviz.md)
  
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+Project Title: Sickle Cell Anemia: The Overlooked Crisis 
+This project aims to highlight the urgent need for increased attention/public awareness and funding for Sickle Cell Disease research in the United States. 
 [Part I](final-project-part-one.md)
 [Part II](final-project-part-two.md)
 [Part III](final-project-part-three.md)
