@@ -105,8 +105,8 @@ I show them each wireframe I made and my storyboard on shorthand and ask:
 
 
 ## Interview responses
-|: Questions               |: Interview 1 |: Interview 2 |: Interview 3 |
-|:-------------------------|:--------------------------------|:-------------|:-------------|
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
+|-------------------------|--------------------------------|-------------|-------------|
 | What is your knowledge of Sickle Cell Disease? | A black person who has heard about the disease through an EX, knows it's a blood disorder due to genotype, research for the disease not well funded and that it affects black people more | An Asian who has heard about the disease in high school biology class | A white person who didn't know anything about the disease | 
 | Did you know september was Sickle cell Awareness month? | Didn't know this | Didn't know this | Didn't know this |
 | What is your first impression of my storyboard/wireframes visualization |Cool picture, likes the Heading and Subheading used in the shorthand title page. Thinks it places emphasis on Sickle Cell Disease research funding | Thinks it's a cool graphic that is good for the general public who are interested in public health issues | Looks engaging and makes them willing to learn more about the disease as they didn't know the impact of the disease given they've never heard of it before |
