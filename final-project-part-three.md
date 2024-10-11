@@ -6,13 +6,15 @@ https://carnegiemellon.shorthandstories.com/sickle-cell-anemia-the-overlooked-cr
 # Changes made since Part II
 Since completing Part I and Part II, I have updated my Shorthand storyboard and made significant progress in refining my story to advocate for increased public awareness and funding for Sickle Cell Disease (SCD) research in the United States. The insights from my user interviews were instrumental as I incorporated feedback gotten to make your visualizations more impactful and easier to understand. For example, I added call-out statistics to highlight key information, and emphasized the economic impact of increased funding with Cost Burden.
 
-A significant addition to my story is also including the fictional persona of Jamal Thompson, a 21-year-old African American student living with SCD who represent the majority age-group and race of those living with sickle cell. This persona helps humanize the issue and appeals to the audience's emotions, making the story more compelling and relatable. I also added story spotlights of some sickle cell warriors and video of personal experience of people living with sickle cell on my storyboard from reputable sources like CDC, NHLBI and the Children Hospital Boston. I used this to address the feedback from interviewees who suggested adding a human story to strengthen the emotional appeal.
+A significant addition to my story is also including the fictional persona of Jamal Thompson, a 21-year-old African American student living with SCD to typify the experience of the majority age-group and race of those living with sickle cell. This persona helps humanize the issue and appeals to the audience's emotions, making the story more compelling and relatable. I also added story spotlights of some sickle cell warriors and video of personal experience of people living with sickle cell on my storyboard from reputable sources like CDC, NHLBI and the Children Hospital Boston. I used this to address the feedback from interviewees who suggested adding a human story to strengthen the emotional appeal.
 
 I also included Next Steps/ Call to action for my primary audience which is the policymakers, particularly those involved in health policy and research (NIH) funding decisions (U.S Senators sitting on the Senate Health, Education, Labor, and Pensions (HELP) Committee in the US Congress and NIH funding officials).
 
-## The next steps/policy recommendations
+## Next steps/policy recommendations
 • Increase NIH funding for Sickle Cell Disease research by 50% each year over the next 5 years
+
 • Create tax incentives for pharmaceutical companies to invest in Sickle Cell Disease cure research
+
 • Expand Medicaid coverage for Sickle Cell Disease treatments and specialized care
 
 ## Final design decisions
@@ -31,7 +33,9 @@ The changes I made since Part II from insights from my interview and personas we
 
 ## Key Takeaways
 One of the key thing I learnt during this story process is the importance of balancing data with personal human stories. By combining statistics with personal narrative, a more powerful and persuasive story that appeals to both logic and emotion which incentivize policymakers to act on your policy recommendations. I also learnt the value of user feedback in refining my message. The adjustments made based on interview responses shows how iterative design improves the effectiveness of data storytelling.
+
 One of the biggest challenge i faced during the project is getting data as a lot of health data are not publicly available especially as not a lot of deatiled research with publicly available has been done on sickle cell. Additionally, it is very difficult getting images and visuals on sickle cell especially the predominant demographics affected by the disease on publicly available websites like unsplash etc.
+
 Furthermore, I think my project has evolved from a data-centric presentation to a compelling narrative that not only informs but also motivates action. By focusing on the human impact of Sickle Cell Disease, the economic burden in terms of cost it places on individuals and the healthcare system, and the potential for progress through increased funding, I was able to craft a story that speaks directly to my target audience of policymakers while remaining the accessiblity to a broader audience. Overall, I'm excited about the potential impact of my project raising awareness and influencing policy decisions for Sickle Cell Disease research funding.
 
 
