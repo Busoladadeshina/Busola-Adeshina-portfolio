@@ -25,8 +25,12 @@ All the things - obviously. I'd especially like to learn:
 
 ## Final project
 Project Title: Sickle Cell Anemia: The Overlooked Crisis 
+
 This project aims to highlight the urgent need for increased attention/public awareness and funding for Sickle Cell Disease research in the United States. 
-[Part I](final-project-part-one.md)
-[Part II](final-project-part-two.md)
-[Part III](final-project-part-three.md)
+
+[Final Project Part I](final-project-part-one.md)
+
+[Final Project Part II](final-project-part-two.md)
+
+[Final Part III](final-project-part-three.md)
 
