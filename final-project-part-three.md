@@ -41,20 +41,37 @@ Finally, I think my project has evolved from a data-centric presentation to a co
 
 ## References
 https://hcup-us.ahrq.gov/reports/statbriefs/sb251-Sickle-Cell-Disease-Stays-2016.pdf 
+
 https://hcup-us.ahrq.gov/reports/statbriefs/sb251-Sickle-Cell-Disease-Stays-2016.pdf 
+
 https://hcup-us.ahrq.gov/reports/statbriefs/sb251-Sickle-Cell-Disease-Stays-2016.pdf 
+
 https://wonder.cdc.gov/controller/datarequest/D158 
+
 https://report.nih.gov/funding/categorical-spending#/
+
 https://sctpn.net/september-is-sickle-cell-awareness-month/
+
 https://www.nhlbi.nih.gov/todays-faces-sickle-cell-disease
+
 https://cancer.osu.edu/for-patients-and-caregivers/learn-about-cancers-and-treatments/cancers-conditions-and-treatment/benign-blood-diseases/sickle-cell-anemia
+
 https://www.hopkinsmedicine.org/-/media/news/images/cassidy-big.jpg?h=1463&iar=0&w=2048&hash=6D3EC0FAD448C3828A38D0ED2215D12E
+
 https://youtu.be/5s3s1oMsg74
+
 https://www.pbs.org/video/living-sickle-cell-anemia-2rhkyc/
+
 https://www.cdc.gov/sickle-cell/stories/index.html
+
 https://www.redlandscommunitynews.com/news/loma-linda-patient-works-to-survive-sickle-cell-disease/article_cd9665dc-5f19-11ee-ad9d-5f4e3bcd5e48.html
+
 https://www.atriumhealthfoundation.org/foundation-news/atrium-health-foundation-expands-access-to-care-for-pediatric-sickle-cell-patients/
+
 https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease
+
 https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/healthu/healthu-images/innovation-articles/2022-03-18-innovation.jpg?h=2000&iar=0&w=3555&hash=A04CBC414ACA62DE87BF0B08228FCA33
+
 https://www.stjude.org/research/translational-innovation/sickle-cell-awareness.html
+
 https://www.fiercepharma.com/pharma/vertex-crispr-score-landmark-fda-approval-sickle-cell-disease-gene-therapy
