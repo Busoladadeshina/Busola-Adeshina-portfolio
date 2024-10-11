@@ -32,5 +32,5 @@ This project aims to highlight the urgent need for increased attention/public aw
 
 [Final Project Part II](final-project-part-two.md)
 
-[Final Part III](final-project-part-three.md)
+[Final Project Part III](final-project-part-three.md)
 
