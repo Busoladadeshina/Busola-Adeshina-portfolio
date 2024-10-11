@@ -1,5 +1,4 @@
-
-# The final data story
+# The final project data story
 https://carnegiemellon.shorthandstories.com/sickle-cell-anemia-the-overlooked-crisis/index.html  
 
 
